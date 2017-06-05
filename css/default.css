@@ -8,7 +8,7 @@
   
   
   body{
-      background-image: url(../img/good.png),url(../img/bg.jpg);
+      background-image: url(../aaa/good.png),url(../aaa/bg.jpg);
       background-repeat: no-repeat, no-repeat;
       background-size: 5% 5%,cover;
         background-color: lightgrey;
